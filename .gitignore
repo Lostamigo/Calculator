@@ -1,0 +1,10 @@
+# virtual environment
+.venv/
+__pycache__/
+*.pyc
+
+# IDE-specific stuff
+.idea/
+.vscode/
+*.suo
+*.user
